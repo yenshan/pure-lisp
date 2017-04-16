@@ -1,6 +1,6 @@
 # pure-lisp
 This is a experimental small implementation of John McCarthy's LISP interpreter in C.
-No arithmetic function, No GC, no Symbol Table, No error handling...
+No arithmetic function, no GC, no symbol table, no error handling...
 
 This is not a practical programming language.
 I just want to show the simpleness of LISP, and for one who want to know how to implement programming language.
