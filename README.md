@@ -3,7 +3,7 @@ This is a experimental small implementation of John McCarthy's LISP interpreter 
 No arithmetic function, no GC, no symbol table, no error handling...
 This is not a practical LISP interpreter.
 
-I just want to show the simpleness of LISP, and for one who want to know how to implement programming language.
+I write this program just for fun. I want to show the simpleness of LISP, and for one who want to know how to implement programming language.
 For this reason, this program is intent to be as simple and as readable as possible.
 
 ## How to build
